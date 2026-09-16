@@ -13,5 +13,6 @@ if scroe >=80:
    print("A")
 eilf score 60-79:
    print("B")
-e
+else:
+   print("C")
    
